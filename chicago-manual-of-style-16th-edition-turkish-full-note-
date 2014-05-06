@@ -3,7 +3,7 @@
 <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>Chicago Manual of Style 16th edition (Turkish full note)</title>
-    <title-short>chicago full note tr</title-short>
+    <title-short>chicago-fullnote-bibliography-tr</title-short>
     <id>http://www.zotero.org/styles/chicago-manual-of-style-16th-edition-turkish-full-note</id>
     <link href="http://www.zotero.org/styles/chicago-manual-of-style-16th-edition-turkish-full-note" rel="self"/>
     <link href="http://www.chicagomanualofstyle.org/tools_citationguide.html" rel="documentation"/>
@@ -22,7 +22,7 @@
     </contributor>
     <category citation-format="note"/>
     <summary>Chicago Manual of Style 16th edition (Turkish full note), Chicago Manual of Style 16th edition (full note) biçim dosyası kaynaklık etmiştir. Julian Onions tarafından yazılan Chicago Manual of Style 16th edition (full note) csl uzantılı dosya https://www.zotero.org/styles adresindeki zotero sitil deposundan indirilerek üzerinde gerekli düzenlemeler yapılmıştır. Türkçe dil yapısına göre künye oluşturma gerekliliği şemayı gözden geçirmeyi zorunlu kılmıştır. İlk olarak Chicago Manual of Style 16th edition (full note) ’dan Türkçeleştirilen etiketler &lt;locale&gt; &lt;/locale&gt; alanında yapılmıştır. Sonraki aşamada şemada yer alan &lt;macro&gt; &lt;/macro&gt;, &lt;citation&gt; &lt;/citation&gt;, &lt;bibliography&gt; &lt;/bibliography&gt; etiketleri içinde ki kodlarda silme, ekleme ve düzenlemeler yapılmıştır.  Söz konusu yöntemin izlenmesinin nedeni yerelleştirme sonucunda Türkçe dilbilgisi kuralları ve bazı etiketlerin künye içerisindeki yerinin değiştirilmesinin zorunluluğun kaynaklanmıştır.</summary>
-    <updated>2014-05-06T11:59:57+00:00</updated>
+    <updated>2014-05-06T13:40:02+00:00</updated>
     <rights>&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;http://i.creativecommons.org/l/by/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;span xmlns:dct=&quot;http://purl.org/dc/terms/&quot; property=&quot;dct:title&quot;&gt;Chicago Manual of Style 16th edition (Turkish full note)&lt;/span&gt; is licensed under a &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.&lt;br /&gt;Based on a work at &lt;a xmlns:dct=&quot;http://purl.org/dc/terms/&quot; href=&quot;http://www.zotero.org/styles/chicago-manual-of-style-16th-edition-turkish-full-note&quot; rel=&quot;dct:source&quot;&gt;http://www.zotero.org/styles/chicago-manual-of-style-16th-edition-turkish-full-note&lt;/a&gt;.</rights>
   </info>
   <locale xml:lang="tr-TR">
